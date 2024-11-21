@@ -1,4 +1,3 @@
-import 'dart:io';
 import 'package:fixo_structure/fixo_structure.dart';
 
 void main(List<String> args) {
